@@ -110,11 +110,20 @@
       "id": "10"
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "",
+      "name": "Hops",
+      "species": "Cat",
+      "diet": "omnivore",
       "personalityTraits": [
-        "hungry"
+        "zany"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Hops",
+      "species": "Cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
       ],
       "id": "11"
     }
